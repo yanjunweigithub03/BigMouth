@@ -6,15 +6,23 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>197DC656-82EA-4759-A5A6-8FA98A1E0BC2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>News</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>60b5c825-4fb8-4975-a861-cdc06fd4b25b++7491</key>
-		<string>svn://115.28.227.1/BJS141240/ProjectA/%252525252525252525252525E5%252525252525252525252525BC%252525252525252525252525A0%252525252525252525252525E6%25252525252525252525252599%25252525252525252525252593%252525252525252525252525E9%252525252525252525252525A3%2525252525252525252525259E/CasualTravelGo/CasualTravelGo/CTGThirdParty/SVProgressHUD/SVProgressHUD.bundle</string>
+		<string>svn://115.28.227.1/BJS141240/ProjectA/%25252525252525252525252525E5%25252525252525252525252525BC%25252525252525252525252525A0%25252525252525252525252525E6%2525252525252525252525252599%2525252525252525252525252593%25252525252525252525252525E9%25252525252525252525252525A3%252525252525252525252525259E/CasualTravelGo/CasualTravelGo/CTGThirdParty/SVProgressHUD/SVProgressHUD.bundle</string>
+		<key>E841D1F2D21E82F04D8A09FC2D77A4EBF3F7A5A0</key>
+		<string>https://github.com/yanjunweigithub03/-.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>News/News.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>60b5c825-4fb8-4975-a861-cdc06fd4b25b++7491</key>
-		<string>SVProgressHUD.bundle</string>
+		<string>../../../../SVProgressHUD.bundle</string>
+		<key>E841D1F2D21E82F04D8A09FC2D77A4EBF3F7A5A0</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
@@ -22,13 +30,21 @@
 		<string>svn://115.28.227.1</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>svn://115.28.227.1/BJS141240/ProjectA/%252525252525252525252525E5%252525252525252525252525BC%252525252525252525252525A0%252525252525252525252525E6%25252525252525252525252599%25252525252525252525252593%252525252525252525252525E9%252525252525252525252525A3%2525252525252525252525259E/CasualTravelGo/CasualTravelGo/CTGThirdParty/SVProgressHUD/SVProgressHUD.bundle</string>
+	<string>https://github.com/yanjunweigithub03/-.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>60b5c825-4fb8-4975-a861-cdc06fd4b25b++7491</string>
+	<string>E841D1F2D21E82F04D8A09FC2D77A4EBF3F7A5A0</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E841D1F2D21E82F04D8A09FC2D77A4EBF3F7A5A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>-</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.subversion</string>
