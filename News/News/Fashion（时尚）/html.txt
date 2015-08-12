@@ -1,0 +1,28 @@
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="#CSSPath#" type="text/css">
+</head>
+<body>
+<div class="main-wrap content-wrap">
+
+<div class="content-inner">
+
+
+<div class="question">
+<h2 class="question-title">#title#</h2>
+
+<div class="answer">
+
+<div class="meta">
+<span class="author">#source# </span><span class="bio">#time#</span>
+</div>
+
+<div class="content" >
+#body#
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
